@@ -1,0 +1,19 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:hello_world/mainpage.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    // Set the device orientation to potrait only
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown,
+    ]);
+    return MaterialApp(
+      home: MainPage(),
+    );
+  }
+}
