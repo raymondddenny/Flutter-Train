@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Image](https://github.com/raymondddenny/Flutter-Train/blob/master/simple_login_page/screenshot/Login%20Page.jpg)
 
 ## Acknowledgements
-* Erico Darmawan Handoyo : [github](https://github.com/khewanxing)
+* Erico Darmawan Handoyo : [github](https://github.com/khewanxing) [Channel Erico Darmawan Handoyo](https://www.youtube.com/channel/UC0s92eMIsyR9otmIiY4v8Ww) 
 
 
