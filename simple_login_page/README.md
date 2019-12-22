@@ -1,6 +1,5 @@
-# hello_world
-
-A new Flutter project.
+# Simple Login Page
+An simple login page using flutter and dart
 
 ## Getting Started
 
@@ -14,3 +13,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshot
+![Image](https://github.com/raymondddenny/Flutter-Train/blob/master/simple_login_page/screenshot/Login%20Page.jpg)
+
+## Acknowledgements
+* Erico Darmawan Handoyo : [github](https://github.com/khewanxing)
+
+
